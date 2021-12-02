@@ -7,9 +7,6 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-*.xml
-*.pyc
-*.iml
 
 __pycache__/
 *.py[cod]
@@ -19,3 +16,7 @@ __pycache__/
 
 .idea/
 .vscode/launch.json
+*.xml
+*.pyc
+*.iml
+*.cpython-39.pyc
